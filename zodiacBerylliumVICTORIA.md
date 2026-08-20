@@ -1,3 +1,4 @@
+Code:
 by = int(input("Enter your birth year: "))
 if by < 1900:
     print("Invalid year")
@@ -27,3 +28,8 @@ else:
         print("Your Chinese Zodiac Sign is: Dog (狗 / Gǒu)")
     elif remainder == 11:
         print("Your Chinese Zodiac Sign is: Pig (猪 / Zhū)")
+
+
+Screenshot: 
+<img width="1440" height="900" alt="Screenshot 2026-08-21 at 7 34 01 AM" src="https://github.com/user-attachments/assets/008b90b9-2f0e-477b-a370-7ceb1b9ce168" />
+
