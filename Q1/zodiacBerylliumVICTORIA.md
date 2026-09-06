@@ -1,4 +1,5 @@
 Code:
+
 by = int(input("Enter your birth year: "))
 if by < 1900:
     print("Invalid year")
