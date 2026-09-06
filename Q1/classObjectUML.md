@@ -3,15 +3,22 @@
 ## The class “Family Member” is a member of a family in a household. 
 ## Properties
 | Property | Data Type | Description |
+
 | Age | Integer | The family member's age. |
+
 | Role | String  | Role of the family member in the household. |
+
 | Name  | String | The name of the family member. |
+
 | Prescence | Boolean | If the family member is present in the household or not. |
 
 ## Methods
 | Method | Description |
+
 | talk() | The family member's method of vocally giving information.|
+
 | eat() | The family member's method of consuming food. |
+
 | drink() | The family member's method of consuming liquids. |
 
 ## Class Diagram 
