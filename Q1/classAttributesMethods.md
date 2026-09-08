@@ -21,10 +21,13 @@ Original class was unchanged
 | - Prescence | Boolean | Private | Can be helpful but house might be robbed when nobody is present |
 
 ## Updated UML Class Diagram 
-![Class Diagram](![Uploading Screenshot 2026-09-09 at 12.48.04 AM.png…])
+![Class Diagram] <img width="839" height="474" alt="Screenshot 2026-09-09 at 12 50 09 AM" src="https://github.com/user-attachments/assets/74ec635f-c32e-4aa0-b182-595d5db20df2" />
+
 
 ## Python Implementation
 [View Python Source](Q1/classimplementation.py)
 
+## Object Diagram 
+![Object Diagram] (![Uploading Screenshot 2026-09-09 at 12.48.04 AM.png…])
 
 
