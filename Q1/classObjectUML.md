@@ -2,15 +2,15 @@
 ## Family Member
 ## The class “Family Member” is a member of a family in a household. 
 ## Properties
-| Property | Data Type | Description |
+| Property | Data Type | Description | Visibility | Why Public/Private? | 
 
-| Age | Integer | The family member's age. |
+- | Age | Integer | The family member's age. | Private | Because age can be used in bad ways |
 
-| Role | String  | Role of the family member in the household. |
++ | Role | String  | Role of the family member in the household. | Public | Helpful to know |
 
-| Name  | String | The name of the family member. |
++ | Name  | String | The name of the family member. | Public | Helpful to know | 
 
-| Prescence | Boolean | If the family member is present in the household or not. |
+- | Prescence | Boolean | If the family member is present in the household or not. | Private | Can be helpful but house might be robbed when nobody is present |
 
 ## Methods
 | Method | Description |
