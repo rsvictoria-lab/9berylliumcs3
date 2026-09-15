@@ -21,7 +21,7 @@ Original class was unchanged
 | - Prescence | Boolean | Private | Can be helpful but house might be robbed when nobody is present |
 
 ## Updated UML Class Diagram 
-![Class Diagram](img/ClassDiagram.png)
+[Class Diagram](img/ClassDiagram.png)
 
 
 ## Python Implementation
