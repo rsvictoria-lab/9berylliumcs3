@@ -1,4 +1,4 @@
-<img width="820" height="469" alt="Screenshot 2026-09-09 at 12 48 04 AM" src="https://github.com/user-attachments/assets/8d1f9e28-3020-4bb0-8c89-fd54adbe7355" /># Class Attributes and Methods 
+# Class Attributes and Methods 
 
 ## Previous Design
 
