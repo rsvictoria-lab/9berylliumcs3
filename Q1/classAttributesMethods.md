@@ -1,4 +1,4 @@
-# Class Attributes and Methods 
+]# Class Attributes and Methods 
 
 ## Previous Design
 
@@ -21,7 +21,7 @@ Original class was unchanged
 | - Prescence | Boolean | Private | Can be helpful but house might be robbed when nobody is present |
 
 ## Updated UML Class Diagram 
-![Class Diagram] <img width="839" height="474" alt="Screenshot 2026-09-09 at 12 50 09 AM" src="https://github.com/user-attachments/assets/74ec635f-c32e-4aa0-b182-595d5db20df2" />
+![Class Diagram](./img/ClassDiagram.png)
 
 
 ## Python Implementation
