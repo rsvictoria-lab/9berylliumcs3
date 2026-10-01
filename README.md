@@ -1,9 +1,10 @@
-# Hi, my name is Ridge Victoria, from 9-Beryllium
+# Hi, my name is Ridge  S. Victoria, from 9-Beryllium
 ## I'm not very good at comsci but once in a while I become genius
 ## I am from Daraga, Albay 
 ## My IGN (in game name) on Mobile Legends Bang Bang is "ridgepro67"
 ## My username on Roblox is "gdhdgdxfcgvhvhvh" 
-
+## My birthday is March 19, 2012
+## Swimming
 
 ## My finished works: 
 
