@@ -16,7 +16,7 @@
 
 ### [OOPAct](Q1/classObjectUML.md)
 
-### [OOPAct Part 2]
+### [OOPAct Part 2](Q1/classAttributesMethods.md)
 
 ### [OOPAct Part 3]
 
