@@ -28,6 +28,6 @@ Original class was unchanged
 [View Python Source](classimplementation.py)
 
 ## Object Diagram 
-![Object Diagram] (![Uploading Screenshot 2026-09-09 at 12.48.04 AM.png…])
+![Object Diagram](![Uploading Screenshot 2026-09-09 at 12.48.04 AM.png…])
 
 
