@@ -1,4 +1,4 @@
-class BankAccount:  
+class BankAccount:  #gumagawa ng class na BankAccount
   def __init__(self, accNum, initial_balance):  
     self.__account_number = accNum
     self.__balance = initial_balance
