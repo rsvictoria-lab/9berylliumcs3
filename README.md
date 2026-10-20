@@ -23,3 +23,5 @@
 ### [OOPAct Part 4]
 
 ### [Encapsulation](Q2/sg8_encapsulation.py)
+
+### [Inheritance](Q2/sg9_inheritance.py)
