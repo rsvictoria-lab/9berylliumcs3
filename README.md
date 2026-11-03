@@ -25,3 +25,5 @@
 ### [Encapsulation](Q2/sg8_encapsulation.py)
 
 ### [Inheritance](Q2/sg9_inheritance.py)
+
+### [Zoo Management System](Q2/Zoo%20Management%20System)
